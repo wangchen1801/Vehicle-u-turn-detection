@@ -9,7 +9,8 @@ YOLOX原模型用于目标检测，ByteTrack用于关联目标，最后进行简
 A simple extension of YOLOX and ByteTrack. Use YOLOX model for vehicle(car, bus, truck) detection, ByteTrack for association. And a simple trajectory analysis is used for 'u-turn' detection.
 
 ## Tracking Demo
-![Image](./assets/dog.jpg)
+![Image](./assets/turn1_0.png)
+![Image](./assets/turn1_2.png)
 
 ## Installation
 refer to [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
