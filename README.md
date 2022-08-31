@@ -11,6 +11,7 @@ A simple extension of YOLOX and ByteTrack. Use YOLOX model for vehicle(car, bus,
 ## Tracking Demo
 ![Image](./assets/turn1_0.png)
 ![Image](./assets/turn1_2.png)
+<img src="./assets/turn1_0.png" width="50" height="70">
 
 ## Installation
 refer to [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
