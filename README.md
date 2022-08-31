@@ -10,8 +10,9 @@ A simple extension of YOLOX and ByteTrack. Use YOLOX model for vehicle(car, bus,
 
 ## Tracking Demo
 <center class="half">
-    <img src="./assets/turn1_0.png" width="200"/><img src="./assets/turn1_2.png" width="200"/>
+    <img src="./assets/turn1_0.png" width="300"/><img src="./assets/turn1_2.png" width="300"/>
 </center>
+
 ## Installation
 refer to [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 
