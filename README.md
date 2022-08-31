@@ -28,7 +28,7 @@ refer to [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX)
 python tools/demo_vehicle_track.py video -f exps/example/yolox_m_vehicle_det.py -c ./pretrained/yolox_m.pth --path ./videos/test_13.mp4 --conf 0.25 --nms 0.45 --tsize 640 --save_result --device gpu
 ```
 
-## Track other objects (CoCo dataset, 80 classes)
+## Track other objects (COCO dataset, 80 classes)
 pls modify
 ```shell
 ./exps/example/yolox_m_vehicle_det.py  # self.track_classes
